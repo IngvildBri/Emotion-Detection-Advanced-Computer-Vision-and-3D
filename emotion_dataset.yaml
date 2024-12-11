@@ -1,0 +1,7 @@
+# Path to emotion dataset
+train: /content/drive/MyDrive/emotion_det/train
+val: /content/drive/MyDrive/emotion_det/test
+
+# Number of classes and class names
+nc: 7
+names: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']

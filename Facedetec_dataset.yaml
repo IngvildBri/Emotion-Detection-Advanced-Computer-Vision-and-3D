@@ -1,0 +1,8 @@
+# Path to face dataset
+train: /content/drive/MyDrive/archive/images/train
+val: /content/drive/MyDrive/archive/images/val
+
+# Number of classes and class names
+nc: 1
+names: ['face']
+
